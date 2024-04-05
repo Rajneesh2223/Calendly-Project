@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a3e76ee.css",
+    "main.js": "/static/js/main.0fa188c9.js",
+    "static/media/stripe.png": "/static/media/stripe.ed86bbc4047e37158a1c.png",
+    "static/media/logo.png": "/static/media/logo.5bfd76ef07959868c404.png",
+    "static/media/circlelogo.png": "/static/media/circlelogo.b31dd77b83c463af8b15.png",
+    "static/media/zoom.png": "/static/media/zoom.6d3287f5f5b8ca6f79ec.png",
+    "static/media/paypal.png": "/static/media/paypal.9de28a53e8009b9c99a1.png",
+    "static/media/salesforce.png": "/static/media/salesforce.24f00b348d745593f9f2.png",
+    "static/media/google.png": "/static/media/google.bb7081a5bab5fb6a68d0.png",
+    "static/media/microsoft.png": "/static/media/microsoft.74a8bec98110998cc1b2.png",
+    "static/media/appstore.png": "/static/media/appstore.3b640af8ed599a237a1d.png",
+    "static/media/zapier.png": "/static/media/zapier.03e602e87c19fd36aa27.png",
+    "index.html": "/index.html",
+    "main.6a3e76ee.css.map": "/static/css/main.6a3e76ee.css.map",
+    "main.0fa188c9.js.map": "/static/js/main.0fa188c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3e76ee.css",
+    "static/js/main.0fa188c9.js"
+  ]
+}
